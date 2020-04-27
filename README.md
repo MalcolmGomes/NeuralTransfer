@@ -1,6 +1,6 @@
-# Neural Transfer in PyTorch 
+## Neural Transfer in PyTorch 
 
-## Transfer style of an image onto the content of another image
+### Transfer style of an image onto the content of another image
 
 ### Implementing the Neural Transfer technique in PyTorch. 
 
